@@ -1,0 +1,120 @@
+{
+    "menu": [
+        {
+            "appetizers": [
+                {
+                    "id-sticks": "Mozzarella Sticks",
+                    "ingredients": [
+                        "String Cheese",
+                        "Milk",
+                        "Bread Crumbs",
+                        "Eggs"
+                    ],
+                    "description": "Made fresh and extra cheesy"
+                },
+                {
+                    "id-soup": "Cheddar Broccoli",
+                    "ingredients": [
+                        "Chedder Cheese",
+                        "Broccoli",
+                        "Butter",
+                        "Carrots",
+                        "Milk"
+                    ],
+                    "description": "Very Cheesy"
+                }
+            ],
+            "cold sandwiches": [
+                {
+                    "id-sandwich": "Turkey Provolone",
+                    "ingredients": [
+                        "Turkey",
+                        "Provolone Cheese",
+                        "Pickles",
+                        "Onions",
+                        "Mayo" 
+                    ],
+                    "description": "Served fresh per order"
+                },
+                {
+                    "id-spicy": "Spicy Italian",
+                    "ingredients": [
+                        "Pepperoni",
+                        "Salami",
+                        "Cheese",
+                        "Lettuce"
+                    ],
+                    "description": "This has a nice kick"
+                }
+            ],
+            "hot sandwiches": [
+                {
+                    "id-italian": "Rustic Italian",
+                    "ingredients": [
+                        "Pecan Smoked Ham",
+                        "Pepperoni",
+                        "Tomatos",
+                        "Vinaigrette",
+                        "Provolone cheese"
+                    ],
+                    "description": "Made hot and ready per order"
+                },
+                {
+                    "id-meat": "Meatball Sub",
+                    "ingredients": [
+                        "Meatballs",
+                        "Cheese",
+                        "Marinara Sauce"
+                    ],
+                    "description": "So Delicious"
+                }
+            ],
+            "desserts": [
+                {
+                    "id-cookies": "Chocolate Chip",
+                    "ingredients": [
+                        "Chocolate Chips",
+                        "Sugar",
+                        "Eggs"
+                    ],
+                    "description": "All you need now is some Milk"
+                },
+                {
+                    "id-brown": "Brownies",
+                    "ingredients": [
+                        "Butter",
+                        "Sugar",
+                        "Eggs",
+                        "Chocolate"
+                    ],
+                    "description": "So Gooey"
+                }
+            ],
+            "drinks": [
+                {
+                    "id-peachy": "Peach Tea",
+                    "ingredients": [
+                        "Tea leaves",
+                        "Peaches",
+                        "Sugar"
+                    ],
+                    "description": "So refreshing"
+                },
+                {
+                    "id-coke": "Soda Fountain",
+                    "ingredients": [
+                        "Fanta",
+                        "Sprite",
+                        "Coke",
+                        "Root Beer",
+                        "Dr. Pepper"
+                    ],
+                    "description": "Served Ice Cold"
+                }
+            ]
+        }
+    ]
+    
+}
+    
+
