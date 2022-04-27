@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(233, 236, 202);
+    color: rgb(43, 168, 226);
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+    padding: 10px;
+    font-family: 'Texturina', serif;
+}
