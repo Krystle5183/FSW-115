@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    background-color: rgb(30, 201, 198);
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+
+header{
+    font-size: 50px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-decoration: underline;
+}
