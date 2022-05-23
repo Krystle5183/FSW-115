@@ -56,8 +56,6 @@ const updateData = (e) => {
     .catch(err => console.error(err))
 }
 
-// * DELETE - ID
-
 const deleteData= (e) => {
     let id = e.target.id
 
