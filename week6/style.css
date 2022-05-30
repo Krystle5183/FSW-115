@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    background-image: url(starwars.jpg)
+}
+
+.newdiv {
+    font-size: 3em;
+    color: yellow;
+    text-align: center;
+    padding: 75px;
+    font-family: 'Gothic A1', sans-serif;
+}
