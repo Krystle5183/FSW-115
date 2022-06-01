@@ -1,0 +1,39 @@
+html {
+    margin: 0;
+    background-image:url(death-star.jpg);
+    color: yellow;
+}
+
+.characters {
+    display: grid;
+    grid-template-columns: repeat(3, 33.33%);
+    padding: 50px;
+    grid-gap: 10px;
+    font-size: 1em;
+}
+.fav-button {
+    border-radius: 50%;
+    background-color: #2FF923;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+h3 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.delete-button {
+    background-color: #EB212E;
+    border-radius: 50%;
+}
+form {
+    text-align: center;
+    padding: 25px;
+}
+.search-button {
+    border-radius: 50%;
+    background-color: rgb(50, 81, 255);
+}
